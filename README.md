@@ -2,6 +2,8 @@
 
 Este proyecto implementa un modelo de **Machine Learning** para la clasificación de diagnósticos de cáncer de mama (Benigno/Maligno) utilizando el dataset Wisconsin Breast Cancer de Kaggle. Se enfoca en la limpieza de datos, análisis exploratorio, escalamiento y optimización de hiperparámetros.
 
+Puedes encontrar el enlace al proyecto en Kaggle aquí: [Final Project](https://www.kaggle.com/code/erickluisflorespaz/final-proyect)
+
 ## Estructura del Proyecto
 
 - `final-proyect.ipynb`: Notebook principal con todo el flujo de trabajo.
